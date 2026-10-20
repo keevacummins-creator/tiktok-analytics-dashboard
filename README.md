@@ -1,6 +1,6 @@
 # Build your own TikTok analytics dashboard with Claude
 
-This is the full setup for the dashboard from my video: Claude's Dashboard feature does the building, and Apify pulls your TikTok data in. Give it about an hour, plus some back and forth with Claude.
+This is the full setup for the dashboard from my video: Claude's Dashboard feature does the building, and Apify pulls your TikTok data in. Give it about half an hour, plus some back and forth with Claude.
 
 ## What you'll end up with
 
